@@ -1,0 +1,5 @@
+2024-11-17 21:11:23.384269 | Function: factorial | Args: (1,), Kwargs: {} | Return: 1
+2024-11-17 21:11:23.384269 | Function: factorial | Args: (2,), Kwargs: {} | Return: 2
+2024-11-17 21:11:23.384269 | Function: factorial | Args: (3,), Kwargs: {} | Return: 6
+2024-11-17 21:11:23.384269 | Function: factorial | Args: (4,), Kwargs: {} | Return: 24
+2024-11-17 21:11:23.384269 | Function: factorial | Args: (5,), Kwargs: {} | Return: 120
